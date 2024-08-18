@@ -6,7 +6,7 @@ const Project = () => {
     const PROJECTS = [
         {
             title: "Aprilia Website (In progress)",
-            des: "https://404/" /* Not finished yet */,
+            des: "https://al3xxrs.github.io/aprilia-website/",
             image: project1,
             description:
                 "This website is made in pure HTML, CSS, and JS. It boasts a fully customized UI that is both visually appealing and user-friendly.",

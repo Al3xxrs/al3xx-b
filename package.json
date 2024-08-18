@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://al3xxrs.github.io/al3xx-b.io/",
+    "homepage": "https://al3xxrs.github.io/al3xx-b/",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
