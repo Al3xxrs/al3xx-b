@@ -1,16 +1,10 @@
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 import { SiFiverr } from "react-icons/si";
 import { FaSquareUpwork } from "react-icons/fa6";
 import { motion } from "framer-motion";
 
 const Contact = () => {
     const navItems = [
-        {
-            id: "LinkedIn",
-            icon: <FaLinkedin className="text-3xl cursor-pointer" />,
-            url: "https://www.linkedin.com/in/ahtisham-web-developer",
-            label: "LinkedIn Profile",
-        },
         {
             id: "GitHub",
             icon: <FaGithub className="text-3xl cursor-pointer" />,
@@ -20,13 +14,13 @@ const Contact = () => {
         {
             id: "Fiverr",
             icon: <SiFiverr className="text-3xl cursor-pointer" />,
-            url: "",
+            url: "https://www.fiverr.com/al3xxb?",
             label: "Fiverr Profile",
         },
         {
             id: "Upwork",
             icon: <FaSquareUpwork className="text-3xl cursor-pointer" />,
-            url: "https://www.upwork.com/freelancers/~0136f9e4718c573c93?mp_source=share",
+            url: "https://www.upwork.com/freelancers/~01b05d3c8b14625b0c?mp_source=share",
             label: "Upwork Profile",
         },
     ];

@@ -1,4 +1,3 @@
-import { FaLinkedin } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
 import { SiFiverr } from "react-icons/si";
 import { FaSquareUpwork } from "react-icons/fa6";
@@ -12,11 +11,6 @@ const Navbar = () => {
 
     const navItems = [
         {
-            id: "Linkedin",
-            title: <FaLinkedin className="text-3xl cursor-pointer" />,
-            dest: "https://www.linkedin.com/in/ahtisham-web-developer",
-        },
-        {
             id: "Github",
             title: <FaGithub className="text-3xl cursor-pointer" />,
             dest: "https://github.com/Al3xxrs",
@@ -24,12 +18,12 @@ const Navbar = () => {
         {
             id: "Fiverr",
             title: <SiFiverr className="text-3xl cursor-pointer" />,
-            dest: "https://www.youtube.com/channel/UC4FB_WetzRJGp5-aaJRWIqg",
+            dest: "https://www.fiverr.com/al3xxb?",
         },
         {
             id: "UpWork",
             title: <FaSquareUpwork className="text-3xl cursor-pointer" />,
-            dest: "https://www.upwork.com/freelancers/~0136f9e4718c573c93?mp_source=share",
+            dest: "https://www.upwork.com/freelancers/~01b05d3c8b14625b0c?mp_source=share",
         },
     ];
 
