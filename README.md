@@ -4,9 +4,9 @@ This is my portfolio website, designed to be simple and clean.
 
 ## Tech Stack
 
-[React](https://react.dev/)
-CSS / [tailwind css](https://tailwindcss.com/docs/guides/vite)
-[framer motion](https://www.framer.com/motion/introduction/)
+-   [React](https://react.dev/)
+-   CSS / [tailwind css](https://tailwindcss.com/docs/guides/vite)
+-   [framer motion](https://www.framer.com/motion/introduction/)
 
 ## Installation
 
