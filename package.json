@@ -1,5 +1,5 @@
 {
-    "name": "web",
+    "name": "al3xx-b",
     "private": true,
     "version": "0.0.0",
     "type": "module",
@@ -13,6 +13,7 @@
         "deploy": "gh-pages -d dist"
     },
     "dependencies": {
+        "al3xx-b": "file:",
         "framer-motion": "^11.2.11",
         "gsap": "^3.12.5",
         "react": "^18.3.1",
