@@ -1,5 +1,6 @@
 import project1 from "../assets/project1.png";
 import project2 from "../assets/project2.png";
+import project3 from "../assets/project3.png";
 import { motion } from "framer-motion";
 import { HiOutlineExternalLink } from "react-icons/hi";
 
@@ -19,6 +20,14 @@ const Project = () => {
             image: project2,
             description:
                 "This website is made with React + Vite, Tailwind CSS and Framer Motion. The design emphasizes simplicity and functionality, coming with aniamtion and responsive layout.",
+            technologies: ["React", "Vite", "Tailwind CSS", "Framer Motion"],
+        },
+        {
+            title: "VPN Company Website",
+            des: "https://github.com/al3xxrs/sierraVPN",
+            image: project3,
+            description:
+                "This app is made with React + Vite, Tailwind CSS and Framer Motion. Featuring a fully responsive design with an intuitive and yet visually striking UI",
             technologies: ["React", "Vite", "Tailwind CSS", "Framer Motion"],
         },
     ];
